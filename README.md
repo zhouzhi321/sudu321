@@ -1,2 +1,6 @@
-# sudu321
-软件工程基础个人项目
+# suduku
+Using python
+
+# python
+- **python3.7**
+- **numpy**
